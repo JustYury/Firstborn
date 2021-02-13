@@ -1,2 +1,4 @@
 # Light-Echo-Engine
-Just an engine for a game
+This uses the x.y.z.g versioning thing
+
+
