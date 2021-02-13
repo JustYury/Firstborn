@@ -1,7 +1,7 @@
 # What's Light Echo?
-Light Echo is a game engine used in science fiction first person shooters.
+Light Echo is a science fiction first person shooters.
 
-It's currently in closed development.
+It's currently in pre-open source release.
 # Misc
 ## Versioning
 I use the x.y.z.g versioning.
