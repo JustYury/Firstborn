@@ -1,5 +1,5 @@
-# What's Light Echo?
-Light Echo is a science fiction first person shooters.
+# What's Light Echoes?
+Light Echoes is a science fiction first person shooter.
 
 It's currently in pre-open source release.
 # Misc
