@@ -1,5 +1,5 @@
-# What's Light Echoes?
-Light Echoes is a science fiction first person shooter.
+# What is Firstborn?
+Firstborn is a science fiction first person shooter.
 
 It's currently in pre-open source release.
 # Misc
